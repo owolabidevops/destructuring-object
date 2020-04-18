@@ -1,0 +1,2 @@
+# destructuring-object
+Es6
